@@ -11,7 +11,7 @@
         android:layout_width="409dp"
         android:layout_height="72dp"
         android:background="@android:color/background_light"
-        android:backgroundTint="#337EFA"
+        android:backgroundTint="@color/colorPrimary"
         android:contentDescription="@string/todo"
         android:foregroundTint="#E91E63"
         app:layout_constraintEnd_toEndOf="parent"
